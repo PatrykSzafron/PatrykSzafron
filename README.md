@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PatrykSzafron
+- 👋 Hi, I’m @Patryk
 - 👀 I’m interested in Rock Climbing, Learning Python and JS
 - 🌱 I’m currently learning Azure Administration
 
