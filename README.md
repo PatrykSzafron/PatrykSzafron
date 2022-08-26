@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Patryk
-- 👀 I’m interested in Rock Climbing, Learning Python and JS
+- 👀 I’m interested in Rock Climbing, Learning Python
 - 🌱 I’m currently learning Azure Administration
 
 <!---
